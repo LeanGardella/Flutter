@@ -41,14 +41,3 @@ app.*.map.json
 
 # Exceptions to above rules.
 !/packages/flutter_tools/test/data/dart_dependencies_test/**/.packages
-
-.DS_Store
-
-./qrreader/android/
-./qrreader/ios/
-./ui_designs/android/
-./ui_designs/ios/
-./user_preferences/android/
-./user_preferences/ios/
-./form_login_validation/ios/
-./form_login_validation/android/
